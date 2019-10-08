@@ -1,0 +1,38 @@
+{
+  "name": "sass-extension-pack",
+  "displayName": "Sass Extension Pack",
+  "description": "This is an extension pack for Visual Studio Code with some Sass extensions that are helpful.",
+  "version": "1.0.0",
+  "publisher": "magnobiet",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "robinbentley.sass-indented",
+    "sasa.vscode-sass-format",
+    "glen-84.sass-lint",
+    "mrmlnc.vscode-scss"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#2c3544",
+    "theme": "light"
+  },
+  "scripts": {
+    "package": "npx vsce package",
+    "publish": "npx vsce publish"
+  },
+  "author": "Magno Biét <magno.biet@gmail.com> (https://magnobiet.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vscode-extension-packs/sass-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vscode-extension-packs/sass-extension-pack/issues"
+  },
+  "homepage": "https://github.com/vscode-extension-packs/sass-extension-pack#readme"
+}
