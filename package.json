@@ -2,7 +2,7 @@
   "name": "sass-extension-pack",
   "displayName": "Sass Extension Pack",
   "description": "This is an extension pack for Visual Studio Code with some Sass extensions that are helpful.",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "publisher": "magnobiet",
   "engines": {
     "vscode": "^1.38.0"
