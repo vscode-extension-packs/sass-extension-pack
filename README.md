@@ -10,8 +10,7 @@ This is an extension pack for Visual Studio Code with some Sass extensions that 
 ## Extensions included
 
 - [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
-- [Sass Formatter](https://marketplace.visualstudio.com/items?itemName=sasa.vscode-sass-format)
-- [Sass Lint](https://marketplace.visualstudio.com/items?itemName=glen-84.sass-lint)
+- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
 ## Installation

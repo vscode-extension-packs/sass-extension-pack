@@ -12,8 +12,7 @@
   ],
   "extensionPack": [
     "robinbentley.sass-indented",
-    "sasa.vscode-sass-format",
-    "glen-84.sass-lint",
+    "stylelint.vscode-stylelint",
     "mrmlnc.vscode-scss"
   ],
   "icon": "icon.png",
