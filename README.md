@@ -1,7 +1,7 @@
 # Visual Studio Code Sass Extension Pack
 
 [![Sass%20Extension%20Pack](https://img.shields.io/vscode-marketplace/v/magnobiet.sass-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.sass-extension-pack)
-[![MIT Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://magno.mit-license.org/)
+[![MIT Licence](https://img.shields.io/badge/licence-MIT-blue.svg)](https://license.magnobiet.com/mit/2019)
 [![Downloads](https://img.shields.io/vscode-marketplace/d/magnobiet.sass-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.sass-extension-pack)
 [![Rating](https://img.shields.io/vscode-marketplace/r/magnobiet.sass-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=magnobiet.sass-extension-pack)
 
@@ -9,8 +9,8 @@ This is an extension pack for Visual Studio Code with some Sass extensions that 
 
 ## Extensions included
 
-- [Sass](https://marketplace.visualstudio.com/items?itemName=Syler.sass-indented)
-- [stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
+- [Sass (.sass only)](https://marketplace.visualstudio.com/items?itemName=syler.sass-indented)
+- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint)
 - [SCSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
 
 ## Installation
@@ -33,4 +33,4 @@ code --install-extension magnobiet.sass-extension-pack
 
 ## License
 
-This package is licensed under the [MIT license](https://magno.mit-license.org/2019). Copyright © Magno Biét
+This package is licensed under the [MIT license](https://license.magnobiet.com/mit/2019). Copyright © Magno Biét

@@ -2,8 +2,9 @@
   "name": "sass-extension-pack",
   "displayName": "Sass Extension Pack",
   "description": "This is an extension pack for Visual Studio Code with some Sass extensions that are helpful.",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "publisher": "magnobiet",
+  "pricing": "Free",
   "engines": {
     "vscode": "^1.38.0"
   },
@@ -11,13 +12,13 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "robinbentley.sass-indented",
+    "syler.sass-indented",
     "stylelint.vscode-stylelint",
     "mrmlnc.vscode-scss"
   ],
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#f1f2f4",
+    "color": "#f6f6f7",
     "theme": "light"
   },
   "scripts": {
